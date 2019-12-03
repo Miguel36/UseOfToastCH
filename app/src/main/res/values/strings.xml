@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UseofToast</string>
+    <string name="txt_title">Experimentando con el Toast</string>
+    <string name="btn_superior">Superior</string>
+    <string name="btn_izquierda">Izquierda</string>
+    <string name="btn_derecha">Derecha</string>
+    <string name="btn_inferior">Inferior</string>
+    <string name="translate_btn_left">Left</string>
+    <string name="translate_btn_right">Right</string>
+</resources>
